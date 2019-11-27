@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Catalogue2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="movie_name">Judul Film</string>
+    <string name="movie_genre">Jenis Film</string>
+    <string name="tvshow_name">Judul Acara TV</string>
+    <string name="tvshow_genre">Jenis Acara TV</string>
+    <string name="dummy_photos">Dummy</string>
+    <string name="title">Judul</string>
+    <string name="genre">Jenis</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="movie_desc">Deskripsi film</string>
+    <string name="change_language_settings">Lokalisasi</string>
+
+    <string-array name="data_name_movie">
+        <item>A Star is Born</item>
+        <item>Creed</item>
+        <item>Aquaman</item>
+        <item>Alita</item>
+        <item>Glass</item>
+        <item>Infinity War</item>
+        <item>How To Train</item>
+        <item>crimes</item>
+        <item>Cold Pursuit</item>
+        <item>Bohemian</item>
+    </string-array>
+
+    <string-array name="genre_movie">
+        <item>Kriminal, Drama</item>
+        <item>Petualangan, Drama, Perang</item>
+        <item>Kriminal, Drama, Thriller</item>
+        <item>Kriminal, Drama, Thriller</item>
+        <item>Drama, Barat</item>
+        <item>Aksi, Kriminal, Thriller</item>
+        <item>Thriller, Drama</item>
+        <item>Aksi, Kriminal, Horor</item>
+        <item>Kriminal, Drama, Misteri</item>
+        <item>Komedi</item>
+    </string-array>
+
+    <array name="photo_movie">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+
+    <string-array name="detail_movie">
+        <item>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</item>
+        <item>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.</item>
+        <item>When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</item>
+        <item>A middle-aged woman finds herself in the middle of a huge conflict that will either make her a profit or cost her life.</item>
+        <item>With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.</item>
+        <item>After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</item>
+        <item>Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.</item>
+        <item>Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.</item>
+        <item>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</item>
+        <item>Four interlocking tales that take place in a fading hotel on New Years Eve.</item>
+    </string-array>
+
+    <string-array name="data_name_tvshow">
+        <item>Arrow</item>
+        <item>doom Patrol</item>
+        <item>Fairy Tail</item>
+        <item>family Guy</item>
+        <item>GOT</item>
+        <item>Gotham</item>
+        <item>Grey Anatomi</item>
+        <item>Hanna</item>
+        <item>iron Fist</item>
+        <item>Naruto</item>
+    </string-array>
+
+    <string-array name="genre_tvshow">
+        <item>Kriminal, Drama</item>
+        <item>Petualangan, Drama, Perang</item>
+        <item>Kriminal, Drama, Thriller</item>
+        <item>Kriminal, Drama, Thriller</item>
+        <item>Drama, Western</item>
+        <item>Aksi, Kriminal, Thriller</item>
+        <item>Kriminal, Drama</item>
+        <item>Aksi, Kriminal, Horor</item>
+        <item>Kriminal, Drama, Misteri</item>
+        <item>Komedi</item>
+    </string-array>
+
+    <array name="photo_tvshow">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+    </array>
+
+    <string-array name="detail_tvshow">
+        <item>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</item>
+        <item>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.</item>
+        <item>When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</item>
+        <item>A middle-aged woman finds herself in the middle of a huge conflict that will either make her a profit or cost her life.</item>
+        <item>With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.</item>
+        <item>After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</item>
+        <item>Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.</item>
+        <item>Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.</item>
+        <item>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</item>
+        <item>Four interlocking tales that take place in a fading hotel on New Years Eve.</item>
+    </string-array>
+
+
+</resources>
